@@ -1,3 +1,4 @@
+[![Build Status](https://vladimircabrera.visualstudio.com/Spage%20Game%20-%20web%20-%20Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://vladimircabrera.visualstudio.com/Spage%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
